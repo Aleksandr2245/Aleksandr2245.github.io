@@ -63,10 +63,6 @@ p {
     box-shadow: 12px 17px 30px 0px #f7f7f7, 3px 5px 10px 1px #f1eded;
 }
 
-.d-block upcarousel {
-    width: 100%;
-    height: 30vh;
-}
 
 @keyframes call {
 
@@ -126,4 +122,6 @@ footer {
         display: none;
     }
 }
+
+
 
